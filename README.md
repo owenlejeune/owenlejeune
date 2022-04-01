@@ -1,6 +1,6 @@
 # Owen LeJeune
 
-Hi, I'm Owen! I'm a 23 year-old student currently completing my 4th year at Carleton University. I'm studying computer science with a specialization in mobile app development. My personal projects mainly involve Android applications/libraries and Linux/macOS desktop apps.
+Hi, I'm Owen! I'm a 23 year-old software developer specializing in Android app development. My personal projects mainly involve Android applications/libraries and Linux/macOS desktop apps.
 
 [![Owen's github stats](https://github-readme-stats.vercel.app/api?username=owenlejeune&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owenlejeune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
