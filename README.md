@@ -13,7 +13,7 @@ Hi, I'm Owen! I'm a 24 year-old software developer specializing in Android app d
 
 ### 🚧 In Progress
 [![TVTime](https://github-readme-stats.vercel.app/api/pin/?username=owenlejeune&repo=TVTime&theme=transparent)](https://github.com/owenlejeune/TVTime)
-[![MYDex](https://github-readme-stats.vercel.app/api/pin?username=owenlejeune&repo=MYDex&theme=transparent)](https://github.com/owenlejeune/MTDex)
+[![MYDex](https://github-readme-stats.vercel.app/api/pin?username=owenlejeune&repo=MYDex&theme=transparent)](https://github.com/owenlejeune/MYDex)
 
 ### 📥 Contributions
 [![Pocket Casts](https://github-readme-stats.vercel.app/api/pin/?username=Automattic&repo=pocket-casts-android&theme=transparent&show_owner=true)](https://github.com/Automattic/pocket-casts-android)
