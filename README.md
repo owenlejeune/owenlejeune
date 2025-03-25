@@ -2,7 +2,6 @@
 
 Hi, I'm Owen! I'm a 26 year-old software developer specializing in Android and React app development. My personal projects mainly involve Android applications/libraries and Linux/macOS desktop apps.
 
-[![Owen's github stats](https://github-readme-stats.vercel.app/api?username=owenlejeune&show_icons=true&count_private=true&theme=transparent)](https://github.com/owenlejeune)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owenlejeune&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :star: Project Showcase
